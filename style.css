@@ -1,0 +1,40 @@
+/* index.html */
+
+.header {
+    color: rgb(43, 159, 175);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.links {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blueviolet;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+body {
+    text-align: center;
+}
+
+/* chocoflan, lasagna, chocolatechipscookies */
+
+.name {
+    color: purple;
+    font-size: 800;
+}
+
+h3 {
+    font-size: larger;
+}
+
+.info, 
+.ingredients,
+.preparation,
+.p {
+    font-family:monospace;
+    font-size: medium;
+    list-style: none;
+}
